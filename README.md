@@ -31,6 +31,4 @@ Full-Stack Engineer at <a href="https://github.com/getweysofficial"><b>Getweys</
 
 <sub>Three.js · GSAP · Redux Toolkit · REST APIs</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0F2A5C,100:020617&height=110&section=footer" width="100%" alt=""/>
-
 </div>
